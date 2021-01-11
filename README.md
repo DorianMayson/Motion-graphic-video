@@ -1,2 +1,2 @@
 # Motion-graphic-video
-Cover with motion graphic on Slipknot - Wait and bleed
+Cover on Slipknot - Wait and bleed with using audiospectrum equalizer effect
